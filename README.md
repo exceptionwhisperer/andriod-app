@@ -1,2 +1,2 @@
-# andriod-app
+# android-app
 create a project
